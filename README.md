@@ -1,0 +1,2 @@
+# impactguru
+Subdomain Takeover
